@@ -28,7 +28,7 @@ namespace JSCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxTabControl.ASPxPageControl ASPxPageControl1;
+        protected global::DevExpress.Web.ASPxPageControl ASPxPageControl1;
         
         /// <summary>
         /// btnShowTime control.
@@ -37,6 +37,6 @@ namespace JSCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnShowTime;
+        protected global::DevExpress.Web.ASPxButton btnShowTime;
     }
 }

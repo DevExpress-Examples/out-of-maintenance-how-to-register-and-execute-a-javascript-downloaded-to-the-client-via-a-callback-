@@ -31,7 +31,7 @@ Namespace JSCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxPageControl1 As Global.DevExpress.Web.ASPxTabControl.ASPxPageControl
+		Protected ASPxPageControl1 As Global.DevExpress.Web.ASPxPageControl
 
 		''' <summary>
 		''' btnShowTime control.
@@ -40,6 +40,6 @@ Namespace JSCallback
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnShowTime As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnShowTime As Global.DevExpress.Web.ASPxButton
 	End Class
 End Namespace
